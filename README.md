@@ -15,7 +15,7 @@ HW4 is an app that allows users to browse movies from the [The Movie Database AP
 - [X] (20pts) Improved the user interface by experimenting with styling and coloring.
 
 ### App Walkthough GIF
-###<img src="https://imgur.com/a/2v0mlbV" width=250><br>
+###<img src="https://github.com/jacobmchang/HW4/blob/master/portrait.gif" width=250><br>
 ![alt-text](link)
 
 ### Notes
